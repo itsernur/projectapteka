@@ -173,4 +173,4 @@ Specify a license (for example, MIT) or state that the code is proprietary.
 
 ## Contact
 
-- Author: Shyngys Rustemuly,Ernur Zhubandyk
+- Authors: Shyngys Rustemuly,Ernur Zhubandyk
