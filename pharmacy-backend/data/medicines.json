@@ -1,0 +1,10 @@
+[
+  {"id": 101, "name": "Парацетамол 500 мг", "inn": "Парацетамол", "form": "Таблетки", "manufacturer": "Example Pharma", "prescription_required": false, "description": "Обезболивающее и жаропонижающее."},
+  {"id": 102, "name": "Ибупрофен 200 мг", "inn": "Ибупрофен", "form": "Таблетки", "manufacturer": "Example Pharma", "prescription_required": false, "description": "Противовоспалительное и обезболивающее."},
+  {"id": 103, "name": "Амоксициллин 500 мг", "inn": "Амоксициллин", "form": "Капсулы", "manufacturer": "Sample Labs", "prescription_required": true, "description": "Антибиотик. Отпускается по рецепту."},
+  {"id": 104, "name": "Лоратадин 10 мг", "inn": "Лоратадин", "form": "Таблетки", "manufacturer": "Sample Labs", "prescription_required": false, "description": "Антигистаминное средство от аллергии."},
+  {"id": 105, "name": "Омепразол 20 мг", "inn": "Омепразол", "form": "Капсулы", "manufacturer": "Example Pharma", "prescription_required": false, "description": "Снижает кислотность желудочного сока."},
+  {"id": 106, "name": "Активированный уголь 250 мг", "inn": "Активированный уголь", "form": "Таблетки", "manufacturer": "Demo Health", "prescription_required": false, "description": "Сорбент при отравлениях."},
+  {"id": 107, "name": "Аспирин 500 мг", "inn": "Ацетилсалициловая кислота", "form": "Таблетки", "manufacturer": "Demo Health", "prescription_required": false, "description": "Обезболивающее, жаропонижающее."},
+  {"id": 108, "name": "Метформин 850 мг", "inn": "Метформин", "form": "Таблетки", "manufacturer": "Sample Labs", "prescription_required": true, "description": "Применяется при диабете 2 типа. Только по рецепту."}
+]
