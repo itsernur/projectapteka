@@ -27,7 +27,7 @@ A website for a pharmacy chain. Visitors search for a medicine and see which pha
 
 Adjust this section to your own choices. A suggested setup:
 
-- **Backend:** Python (FastAPI / Flask)
+- **Backend:** Python (FastAPI)
 - **Frontend:** React / Next.js or plain HTML, CSS, and JavaScript
 - **Maps:** Leaflet with OpenStreetMap
 - **Search:** client-side or server-side filtering with fuzzy matching (for example, Fuse.js)
