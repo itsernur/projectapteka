@@ -50,7 +50,7 @@ Adjust this section to your own choices. A suggested setup:
 ### Requirements
 
 - Git
-- Node.js 20+ (or Python 3.11+ if you use a Python backend)
+- Python 3.11+
 - Docker and Docker Compose (optional)
 
 ### Installation
